@@ -41,5 +41,5 @@ A robust and secure **Banking Management System** developed in **C++**. This pro
 ---
 *Developed with a focus on clean code and scalable software architecture.*
 
-#### Developed by: AbooodGh 👨‍💻
+##### Developed by: AbooodGh 👨‍💻
 
